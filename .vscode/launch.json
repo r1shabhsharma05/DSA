@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "Array.largest",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "linearr",
+            "request": "launch",
+            "mainClass": "Array.linearr",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "ll",
+            "request": "launch",
+            "mainClass": "ll",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "selection",
             "request": "launch",
             "mainClass": "Sortingg.selection",

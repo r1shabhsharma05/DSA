@@ -2,13 +2,14 @@ package Array;
 
 public class largest {
     public static int largestNumber(int number[]){
-        int num = Integer.MIN_VALUE;
-        for(int i =0; i<number.length;i++){
-            if(num<number[i]){
-                num = number[i];
+        int largest = Integer.MIN_VALUE;
+        for(int i =0; i<number.length; i++){
+            if(largest<number[i]){
+                largest = number[i];
+
             }
         }
-        return num;
+        return largest;
     }
     public static void main(String[] args) {
         int number[] = {1,2,6,3,4,2};
