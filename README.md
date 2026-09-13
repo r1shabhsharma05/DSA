@@ -86,6 +86,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -113,6 +114,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
