@@ -107,6 +107,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
