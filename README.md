@@ -97,6 +97,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 ## Dynamic Programming
