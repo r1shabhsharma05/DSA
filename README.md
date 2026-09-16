@@ -58,6 +58,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -78,6 +79,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
@@ -102,6 +104,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
