@@ -82,6 +82,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,4 +140,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
