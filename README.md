@@ -92,6 +92,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
