@@ -92,6 +92,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +158,16 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
