@@ -155,6 +155,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
