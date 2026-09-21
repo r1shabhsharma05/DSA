@@ -77,6 +77,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
