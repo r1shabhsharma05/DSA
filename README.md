@@ -133,6 +133,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -143,6 +144,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 ## Greedy
@@ -183,4 +185,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
