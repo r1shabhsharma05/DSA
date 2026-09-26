@@ -197,4 +197,20 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
