@@ -104,6 +104,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0006-zigzag-conversion](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
