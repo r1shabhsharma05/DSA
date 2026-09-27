@@ -64,6 +64,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
@@ -75,6 +76,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -216,4 +218,16 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
