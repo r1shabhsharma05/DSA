@@ -85,6 +85,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
@@ -125,6 +126,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
@@ -165,6 +167,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -180,6 +183,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0072-edit-distance/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
