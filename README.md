@@ -110,6 +110,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -249,6 +251,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
