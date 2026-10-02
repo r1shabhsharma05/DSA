@@ -260,4 +260,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->
