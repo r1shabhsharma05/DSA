@@ -111,6 +111,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -156,6 +157,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
@@ -251,10 +253,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -268,4 +272,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
