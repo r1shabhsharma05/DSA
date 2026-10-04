@@ -97,6 +97,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
@@ -216,6 +217,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -285,4 +287,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
