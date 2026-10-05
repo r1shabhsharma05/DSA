@@ -135,6 +135,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
@@ -155,6 +156,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
@@ -178,6 +180,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 ## Binary Search
