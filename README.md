@@ -73,6 +73,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -95,6 +96,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -136,6 +138,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
@@ -159,6 +162,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
@@ -239,6 +243,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
