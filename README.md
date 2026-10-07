@@ -208,6 +208,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0072-edit-distance/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -255,6 +256,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
