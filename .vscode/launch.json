@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "largest",
             "request": "launch",
             "mainClass": "Array.largest",
@@ -27,6 +28,8 @@
         },
         {
             "type": "java",
+=======
+>>>>>>> 7e90492c924d33eda983a9819ecfb901bc49c6ad
             "name": "selection",
             "request": "launch",
             "mainClass": "Sortingg.selection",
