@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center"> 
    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Animation"/>
 </p>
 
@@ -52,3 +52,280 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## 👤 <span style="font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold;">Author</span>
 
 <b>Rishabh Sharma</b>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0072-edit-distance](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0072-edit-distance/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0148-sort-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+<!---LeetCode Topics End-->
