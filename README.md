@@ -112,6 +112,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Hash Table
@@ -196,6 +197,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -235,6 +238,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [1021-remove-outermost-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Design
