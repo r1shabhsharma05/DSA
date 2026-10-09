@@ -1,4 +1,4 @@
-package DSA_SHEET;
+package dsa_sheet;
 
 public class traping_rain {
     public static void main(String[] args) {
