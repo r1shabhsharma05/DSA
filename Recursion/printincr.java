@@ -1,16 +1,16 @@
-public class printdecre {
-    public static void printdec(int n) {
+public class printincr {
+    public static void printinc(int n) {
         if (n == 1) {
             System.out.println(n);
             return;
         }
 
+        printinc(n - 1);
         System.out.println(n);
-        printdec(n - 1);
     }
 
     public static void main(String[] args) {
         int n = 10;
-        printdec(n);
+        printinc(n);
     }
 }
