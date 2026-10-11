@@ -183,6 +183,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,4 +340,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
