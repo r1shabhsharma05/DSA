@@ -104,6 +104,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0225-implement-stack-using-queues](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
@@ -124,6 +125,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Floyd's Cycle Finding Algorithm
@@ -180,6 +182,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -262,6 +265,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0496-next-greater-element-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 ## Data Stream
