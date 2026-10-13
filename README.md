@@ -90,6 +90,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0007-reverse-integer](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+| [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,5 +359,6 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 <!---LeetCode Topics End-->
