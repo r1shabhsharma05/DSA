@@ -92,6 +92,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0009-palindrome-number](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rish0000-dot/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Combinatorics
@@ -361,4 +364,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
