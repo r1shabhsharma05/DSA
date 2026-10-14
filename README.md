@@ -191,6 +191,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -224,6 +225,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0035-search-insert-position](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
