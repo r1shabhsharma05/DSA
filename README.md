@@ -144,6 +144,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
