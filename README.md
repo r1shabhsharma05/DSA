@@ -61,6 +61,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0002-add-two-numbers](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -74,6 +75,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0143-reorder-list/) | Medium |
