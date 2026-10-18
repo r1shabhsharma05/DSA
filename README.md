@@ -348,6 +348,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 | [0178-rank-scores](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
