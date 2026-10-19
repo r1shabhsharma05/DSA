@@ -198,6 +198,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0875-koko-eating-bananas](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -233,6 +234,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
@@ -334,6 +336,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0169-majority-element](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
