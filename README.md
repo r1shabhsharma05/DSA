@@ -149,6 +149,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [2333-minimum-sum-of-squared-difference](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +381,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
