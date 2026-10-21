@@ -178,6 +178,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
@@ -232,6 +233,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0300-longest-increasing-subsequence/) | Medium |
