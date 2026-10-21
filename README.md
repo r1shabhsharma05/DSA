@@ -357,6 +357,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/r1shabhsharma05/DSA/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
