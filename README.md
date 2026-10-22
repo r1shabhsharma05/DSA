@@ -209,6 +209,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
