@@ -207,6 +207,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -218,6 +219,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,11 +320,13 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,4 +411,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
