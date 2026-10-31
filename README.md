@@ -170,6 +170,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -220,6 +222,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0085-maximal-rectangle](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rish0000-dot/DSA/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
