@@ -320,10 +320,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/r1shabhsharma05/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/r1shabhsharma05/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
@@ -336,6 +338,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/r1shabhsharma05/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rish0000-dot/DSA/tree/main/Java/Easy/0112-path-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
