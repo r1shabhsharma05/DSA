@@ -149,6 +149,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0231-power-of-two](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Easy/0509-fibonacci-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/r1shabhsharma05/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/r1shabhsharma05/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/r1shabhsharma05/DSA/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
